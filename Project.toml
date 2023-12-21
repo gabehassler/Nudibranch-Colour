@@ -1,0 +1,11 @@
+[deps]
+BEASTDataPrep = "7fe627e2-2553-44c3-aa13-292e356d3647"
+BeastUtils = "af749cb1-4ea1-40dc-96cd-a9902a2c5721"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+PhylogeneticFactorAnalysis = "88e69f3b-d3b7-48b0-a205-c3c72d2ca7ac"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
