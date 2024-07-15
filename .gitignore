@@ -1,0 +1,9 @@
+*.log
+*.xml
+*.csv
+*.pdf
+*.svg
+Manifest.toml
+*.out
+.vscode/*
+beast.jar
